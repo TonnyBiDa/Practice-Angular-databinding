@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-This project is for learning Angular Lifecycle and databinding.
+This project is for learning Angular Lifecycle and data binding.
 
-The content include Encapsulation, Local Reference, ng-content and two way databingding.
+The content include Encapsulation, Local Reference, ng-content and two way data binding.
 
 ## Development server
 
